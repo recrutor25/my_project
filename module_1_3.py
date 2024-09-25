@@ -4,7 +4,6 @@
 Created on 21 09 2024
 @author: igor
 """
-from operator import truediv
 
 name = 'Ivan'
 print('Имя:', name)
