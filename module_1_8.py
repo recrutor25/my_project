@@ -4,3 +4,4 @@
 Created on 22 09 2024
 @author: igor
 """
+print()
