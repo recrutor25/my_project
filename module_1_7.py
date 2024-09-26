@@ -16,6 +16,6 @@ middl_grades_list = [(sum(grades[0]) / len(grades[0])),(sum(grades[1]) / len(
 # print(grades_middl_list)
 
 middl_grades_dict = dict(zip(student_list, middl_grades_list)) # совмещаем
-# списки в соответствии с индексом 
+# списки в соответствии с индексом
 
 print(middl_grades_dict) #len(grades[3])),
